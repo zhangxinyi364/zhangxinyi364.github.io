@@ -40,6 +40,7 @@ _\* denotes equal contribution, ✉ denotes corresponding author_
 **Xinyi Zhang***, Bingyang Wei*, Ruixuan Yu✉, Jian Sun
 <br>
 
+_NeurIPS 2025_
 
 [**Code**](https://github.com/zhangxinyi364/CFPA)
 
