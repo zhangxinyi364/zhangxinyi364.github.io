@@ -43,7 +43,7 @@ _\* denotes equal contribution, ✉ denotes corresponding author_
 
 [**Code**](https://github.com/zhangxinyi364/CFPA)
 
-- We propose a novel two-stage framework, Coarse-to-Fine Part Assembly (CFPA), for 3D shape assembly from basic parts. Effective part assembly demands precise local geometric reasoning for accurate component assembly, as well as global structural understanding to ensure semantic coherence and plausible configurations. CFPA addresses this challenge by integrating semantic abstraction and symmetry-aware reasoning into a unified pose prediction process.
+- We propose a novel two-stage framework, Coarse-to-Fine Part Assembly (CFPA), for 3D shape assembly from basic parts. 
 </div>
 </div>
 
