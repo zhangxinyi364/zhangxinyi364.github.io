@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi 👋! I'm Xinyi Zhang, a 4th-year undergraduate student at **Shandong University**, advised by Prof. [Ruixuan Yu](https://faculty.sdu.edu.cn/yuruixuan/zh_CN/index.htm). Upon graduation, I will be pursuing my master's degree at Xi'an Jiaotong University under the excellent guidance of Prof. [Qidong Liu](https://gr.xjtu.edu.cn/en/web/lqdong) and Prof. [Chen Li](https://chenli.group/).
+Hi 👋! I'm **Xinyi Zhang**, a 4th-year undergraduate student at Shandong University, advised by Prof. [Ruixuan Yu](https://faculty.sdu.edu.cn/yuruixuan/zh_CN/index.htm). Upon graduation, I will be pursuing my master's degree at Xi'an Jiaotong University under the excellent guidance of Prof. [Qidong Liu](https://gr.xjtu.edu.cn/en/web/lqdong) and Prof. [Chen Li](https://chenli.group/).
 
 My research interests are primarily focused on Computer Vision, Recommender Systems, and Large Language Models (LLMs). Feel free to reach out if you'd like to discuss potential collaborations or share ideas!
 
@@ -69,5 +69,5 @@ _NeurIPS 2025_
 # 🌈 Miscellaneous
 Apart from academic studies and research, I have a wide range of interests, including piano, swimming and calligraphy. 
 -  I enjoy playing the piano🎹 and have passed the highest amateur performance grades from both the [CMA](http://www.chnmusic.org/home/news/kj.html) Grade 10 and the [CCOM](http://kj.ccom.edu.cn/) Grade 9. I have also won awards in several piano competitions. 
--  I am an avid swimmer, with a preference for the breaststroke.
--  I am a practitioner of Chinese Brush Calligraphy and have passed the Grade 4.
+-  I am an avid swimmer🏊‍, with a preference for the breaststroke.
+-  I am a practitioner of Chinese Brush Calligraphy🖌 and have passed the Grade 4.
