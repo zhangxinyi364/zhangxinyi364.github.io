@@ -37,7 +37,7 @@ _\* denotes equal contribution, ✉ denotes corresponding author_
 
 [Coarse-to-Fine 3D Part Assembly via Semantic Super-Parts and Symmetry-Aware Pose Estimation](#)
 
-**Xinyi Zhang***, Bingyang Wei*, Ruixuan Yu✉, Jian Sun
+**Xinyi Zhang\***, Bingyang Wei\*, Ruixuan Yu✉, Jian Sun
 <br>
 
 _NeurIPS 2025_
