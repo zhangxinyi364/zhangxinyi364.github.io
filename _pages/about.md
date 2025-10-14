@@ -43,7 +43,7 @@ _\* denotes equal contribution, ✉ denotes corresponding author_
 
 _NeurIPS 2025_
 
-- We propose a novel two-stage framework, Coarse-to-Fine Part Assembly (CFPA), for 3D shape assembly from basic parts. 
+We propose a novel two-stage framework, Coarse-to-Fine Part Assembly (CFPA), for 3D shape assembly from basic parts. 
 </div>
 </div>
 
