@@ -36,14 +36,12 @@ _\* denotes equal contribution, ✉ denotes corresponding author_
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/cfpa_teaser.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Coarse-to-Fine 3D Part Assembly via Semantic Super-Parts and Symmetry-Aware Pose Estimation**
+**Coarse-to-Fine 3D Part Assembly via Semantic Super-Parts and Symmetry-Aware Pose Estimation** \[[**Code**](https://github.com/zhangxinyi364/CFPA)\]
 
 **Xinyi Zhang\***, Bingyang Wei\*, Ruixuan Yu ✉, Jian Sun
 <br>
 
 _NeurIPS 2025_
-
-\[[**Code**](https://github.com/zhangxinyi364/CFPA)\]
 
 - We propose a novel two-stage framework, Coarse-to-Fine Part Assembly (CFPA), for 3D shape assembly from basic parts. 
 </div>
@@ -70,5 +68,6 @@ _NeurIPS 2025_
 
 # 🌈 Miscellaneous
 Apart from academic studies and research, I have a wide range of interests, including piano, swimming and calligraphy. 
-
-
+-  I enjoy playing the piano🎹 and have passed the highest amateur performance grades from both the [CMA](http://www.chnmusic.org/home/news/kj.html) Grade 10 and the [CCOM](http://kj.ccom.edu.cn/) Grade 9. I have also won awards in several piano competitions. 
+-  I am an avid swimmer, with a preference for the breaststroke.
+-  I am a practitioner of Chinese Brush Calligraphy and have passed the Grade 4.
