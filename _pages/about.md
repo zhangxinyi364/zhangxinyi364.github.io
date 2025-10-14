@@ -25,6 +25,7 @@ My research interests are primarily focused on Computer Vision, Recommender Syst
 
 
 # 🔥 News
+- *2025.10*: &nbsp;🎉🎉 Honored to receive National Scholarship!
 - *2025.09*: &nbsp;🎉🎉 One paper has been accepted by NeurIPS’2025!
 - *2025.09*: &nbsp;🎉🎉 I will be joining Xi'an Jiaotong University as a master's student in Fall 2026. 
 
@@ -35,14 +36,14 @@ _\* denotes equal contribution, ✉ denotes corresponding author_
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/cfpa_teaser.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Coarse-to-Fine 3D Part Assembly via Semantic Super-Parts and Symmetry-Aware Pose Estimation](#)
+**Coarse-to-Fine 3D Part Assembly via Semantic Super-Parts and Symmetry-Aware Pose Estimation**
 
-**Xinyi Zhang\***, Bingyang Wei\*, Ruixuan Yu✉, Jian Sun
+**Xinyi Zhang\***, Bingyang Wei\*, Ruixuan Yu ✉, Jian Sun
 <br>
 
 _NeurIPS 2025_
 
-[**Code**](https://github.com/zhangxinyi364/CFPA)
+\[[**Code**](https://github.com/zhangxinyi364/CFPA)\]
 
 - We propose a novel two-stage framework, Coarse-to-Fine Part Assembly (CFPA), for 3D shape assembly from basic parts. 
 </div>
@@ -51,17 +52,23 @@ _NeurIPS 2025_
 
 
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 🎖 Selected Honors and Awards
+*   _2025.10_ &nbsp; **National Scholarship** 🥇
+*   _2025.09_ &nbsp; **First-Class** Outstanding Student Award (Top 5%), Shandong University
+*   _2025.09_ &nbsp; **Merit Student**, Shandong University
+*   _2025.09_ &nbsp; Specialty Scholarship for Arts and Culture, Shandong University
+*   _2025.09_ &nbsp; Specialty Scholarship for Entrepreneurship and Practice, Shandong University
+*   _2025.09_ &nbsp; Specialty Scholarship for Research and Innovation, Shandong University
+*   _2025.05_ &nbsp; Outstanding Communist Youth League Member, Shandong University
+*   _2025.05_ &nbsp; Advanced Individual in Innovation and Entrepreneurship Practice, Shandong University
+*   _2024.11_ &nbsp; **National Second Prize** 🥈 in China Undergraduate Mathematical Contest in Modeling
+*   _2024.02_ &nbsp; **Meritorious Winner** 🥇 in the Mathematical Contest in Modeling (MCM)
 
 # 📖 Educations
 - *2022.09 - 2026.06 (now)*, Shandong University. 
 - *2026.09 - 2029.06*, Xi'an Jiaotong University. 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 🌈 Miscellaneous
+Apart from academic studies and research, I have a wide range of interests, including piano, swimming and calligraphy. 
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+
