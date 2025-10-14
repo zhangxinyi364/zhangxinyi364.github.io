@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Xinyi Zhang's Homepage"
-description              : "Personal academic homepage of Xinyi Zhang."
+description              : "A 4th-year undergraduate student at Shandong University."
 repository               : "zhangxinyi364/zhangxinyi364.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Xinyi Zhang"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
+  bio              : "Shandong University"
   location         : "Weihai, Shandong, China"
   employer         :
   pubmed           : 
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : # e.g., "https://github.com/zhangxinyi364"
   google_plus      :
   keybase          :
   instagram        :
