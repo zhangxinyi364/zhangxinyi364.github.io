@@ -60,7 +60,7 @@ We propose a novel two-stage framework, Coarse-to-Fine Part Assembly (CFPA), for
 *   _2025.05_ &nbsp; Outstanding Communist Youth League Member, Shandong University
 *   _2025.05_ &nbsp; Advanced Individual in Innovation and Entrepreneurship Practice, Shandong University
 *   _2024.11_ &nbsp; **National Second Prize** 🥈 in China Undergraduate Mathematical Contest in Modeling
-*   _2024.02_ &nbsp; **Meritorious Winner** 🥇 in the Mathematical Contest in Modeling (MCM)
+*   _2024.05_ &nbsp; **Meritorious Winner** 🥇 in the Mathematical Contest in Modeling (MCM)
 
 # 📖 Educations
 - *2022.09 - 2026.06 (now)*, Shandong University. 
