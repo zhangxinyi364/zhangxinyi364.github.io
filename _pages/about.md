@@ -71,3 +71,5 @@ Apart from academic studies and research, I have a wide range of interests, incl
 -  I enjoy playing the piano🎹 and have passed the highest amateur performance grades from both the [CMA](http://www.chnmusic.org/home/news/kj.html) Grade 10 and the [CCOM](http://kaoji.net.cn/#/) Grade 9. I have also won awards in several piano competitions. 
 -  I am an avid swimmer🏊‍, with a preference for the breaststroke.
 -  I am a practitioner of Chinese Brush Calligraphy🖌 and have passed the Grade 4.
+
+![](https://komarev.com/ghpvc/?username=your-github-zhangxinyi364&color=blue)
