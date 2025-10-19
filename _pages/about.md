@@ -72,4 +72,4 @@ Apart from academic studies and research, I have a wide range of interests, incl
 -  I am an avid swimmer🏊‍, with a preference for the breaststroke.
 -  I am a practitioner of Chinese Brush Calligraphy🖌 and have passed the Grade 4.
 
-![](https://komarev.com/ghpvc/?username=your-github-zhangxinyi364&color=blue)
+![](https://komarev.com/ghpvc/?username=zhangxinyi364&color=blue)
