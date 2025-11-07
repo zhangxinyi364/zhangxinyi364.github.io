@@ -36,7 +36,7 @@ _\* denotes equal contribution, ✉ denotes corresponding author_
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/cfpa_teaser.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Coarse-to-Fine 3D Part Assembly via Semantic Super-Parts and Symmetry-Aware Pose Estimation** \[[**Paper**](https://openreview.net/pdf?id=yAf2Akj1Wm)\] \[[**Poster**](https://neurips.cc/media/PosterPDFs/NeurIPS%202025/115176.png?t=1761708232.3529038)\] \[[**Code**](https://github.com/zhangxinyi364/CFPA)\]
+**Coarse-to-Fine 3D Part Assembly via Semantic Super-Parts and Symmetry-Aware Pose Estimation** \[[**Paper**](https://openreview.net/pdf?id=yAf2Akj1Wm)\] \[[**Poster**](https://neurips.cc/media/PosterPDFs/NeurIPS%202025/115176.png?t=1761708232.3529038)\] \[[**Code**](https://github.com/zhangxinyi364/CFPA)\] \[[**Slides**](https://neurips.cc/media/neurips-2025/Slides/115176_aF8D6ya.pdf)\]
 
 **Xinyi Zhang\***, Bingyang Wei\*, Ruixuan Yu ✉, Jian Sun
 <br>
