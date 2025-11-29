@@ -19,7 +19,7 @@ redirect_from:
 
 Hi 👋! I'm **Xinyi Zhang**, a 4th-year undergraduate student at Shandong University, under the excellent guidance of Prof. [Ruixuan Yu](https://faculty.sdu.edu.cn/yuruixuan/zh_CN/index.htm). Upon graduation, I will be pursuing my master's degree at Xi'an Jiaotong University, advised by Prof. [Qidong Liu](https://gr.xjtu.edu.cn/en/web/lqdong) and Prof. [Chen Li](https://chenli.group/).
 
-To me, the most meaningful part of learning isn't just about what I acquire, but how I grow. It’s about the journey—the exhilarating 'aha' moments, the humbling periods of confusion, and the genuine dialogues with insightful minds. These are the experiences that enrich my inner world with noble pursuits and truly shape my character and perspective.
+To me, the most meaningful part of learning isn't just about what I acquire, but how I grow. It’s about the journey—the electrifying moments of discovery, the humbling periods of confusion, and the genuine dialogues with insightful minds. These are the experiences that elevate my inner world and truly shape my character and perspective.
 
 While the external world and our perspectives are in constant flux, I believe that excellent qualities, such as integrity, diligence, and intellectual curiosity, are timeless. Ideals are what make us exceptional. No matter what I do or where I go in the future, I hope to always cherish my academic journey, using it to sharpen my mind, foster my creativity, and become a person of both sound moral character and strong capabilities.
 
